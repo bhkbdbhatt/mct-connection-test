@@ -1,0 +1,149 @@
+{
+    "translations": {
+        "customer_service": {
+            "ru": "Служба поддержки клиентов",
+            "uk": "Служба підтримки клієнтів",
+            "sq": "Shërbimi për klientët",
+            "bs": "Služba za korisnike",
+            "bg": "Обслужване на клиенти",
+            "cy": "Gwasanaeth Cwsmer",
+            "cs": "Zákaznický servis",
+            "de": "Kundenservice",
+            "fi": "Asiakaspalvelu",
+            "el": "Εξυπηρέτηση Πελατών",
+            "hr": "Služba za korisnike",
+            "hu": "Ügyfélszolgálat",
+            "he": "שירות לקוחות",
+            "is": "Þjónusta við viðskiptavini",
+            "lt": "Klientų aptarnavimas",
+            "ro": "Serviciul clienți",
+            "sr": "Korisnička podrška",
+            "sl": "Pomoč strankam",
+            "sk": "Zákaznícky servis",
+            "en": "Customer Service"  
+        },
+        "accept_all_cookie": {},
+        "chat_start_text_web": {},
+        "agent_entered_chat_text_web": {}
+    },
+    "au": {
+        "username": "gvasupportau",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "bd": {
+        "username": "gvasupportbd",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "bn": {
+        "username": "gvasupportbn",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "fj": {
+        "username": "gvasupportfj",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "nz": {
+        "username": "gvasupportnz",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "pg": {
+        "username": "gvasupportpg",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "pk": {
+        "username": "gvasupportpk",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "sg": {
+        "username": "gvasupportsg",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "vn": {
+        "username": "gvasupportvn",
+        "password": "welcome123",
+        "langCodes": ["en", "vi"]  
+    },
+    "jp": {
+        "username": "gvasupportjp",
+        "password": "welcome123",
+        "langCodes": ["en", "ja"]  
+    },
+    "kh": {
+        "username": "gvasupportkh",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "kr": {
+        "username": "gvasupportkr",
+        "password": "welcome123",
+        "langCodes": ["en", "ko"]  
+    },
+    "la": {
+        "username": "gvasupportla",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "lk": {
+        "username": "gvasupportlk",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "mm": {
+        "username": "gvasupportmm",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "tw": {
+        "username": "gvasupporttw",
+        "password": "welcome123",
+        "langCodes": ["en", "zh-tw"]  
+    },
+    "np": {
+        "username": "gvasupportnp",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "mo": {
+        "username": "gvasupportmo",
+        "password": "welcome123",
+        "langCodes": ["en", "zh-HK"]  
+    },
+    "hk": {
+        "username": "gvasupporthk",
+        "password": "welcome123",
+        "langCodes": ["en", "zh-HK"]  
+    },
+    "id": {
+        "username": "gvasupportid",
+        "password": "welcome123",
+        "langCodes": ["en", "id"]  
+    },
+    "my": {
+        "username": "gvasupportmy",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "in": {
+        "username": "gvasupportin",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "ph": {
+        "username": "gvasupportph",
+        "password": "welcome123",
+        "langCodes": ["en"]  
+    },
+    "th": {
+        "username": "gvasupportth",
+        "password": "welcome123",
+        "langCodes": ["en", "th"]  
+    }
+}
